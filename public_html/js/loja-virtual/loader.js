@@ -1,3 +1,0 @@
-LWDKInitFunction.addFN(()=>{
-    
-});
